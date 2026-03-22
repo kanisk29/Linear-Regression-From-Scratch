@@ -1,5 +1,4 @@
-# Linear Regression from Scratch (CGPA vs Package Prediction)
-
+# Linear Regression from Scratch
 ## Importing Required Libraries
 The following libraries are imported to perform data analysis, visualization, and model evaluation.
 
